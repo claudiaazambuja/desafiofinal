@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("trilha-dotnet-desafiofinal")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("desafiofinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf341c643d5ef5ac0337a9fddac153f9189c4037")]
-[assembly: System.Reflection.AssemblyProductAttribute("trilha-dotnet-desafiofinal")]
-[assembly: System.Reflection.AssemblyTitleAttribute("trilha-dotnet-desafiofinal")]
+[assembly: System.Reflection.AssemblyProductAttribute("desafiofinal")]
+[assembly: System.Reflection.AssemblyTitleAttribute("desafiofinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

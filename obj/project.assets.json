@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azamb\\RiderProjects\\trilha-dotnet-desafiofinal\\trilha-dotnet-desafiofinal\\trilha-dotnet-desafiofinal.csproj",
-      "projectName": "trilha-dotnet-desafiofinal",
-      "projectPath": "C:\\Users\\azamb\\RiderProjects\\trilha-dotnet-desafiofinal\\trilha-dotnet-desafiofinal\\trilha-dotnet-desafiofinal.csproj",
+      "projectUniqueName": "C:\\Users\\azamb\\RiderProjects\\trilha-dotnet-desafiofinal\\desafiofinal\\desafiofinal.csproj",
+      "projectName": "desafiofinal",
+      "projectPath": "C:\\Users\\azamb\\RiderProjects\\trilha-dotnet-desafiofinal\\desafiofinal\\desafiofinal.csproj",
       "packagesPath": "C:\\Users\\azamb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azamb\\RiderProjects\\trilha-dotnet-desafiofinal\\trilha-dotnet-desafiofinal\\obj\\",
+      "outputPath": "C:\\Users\\azamb\\RiderProjects\\trilha-dotnet-desafiofinal\\desafiofinal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\azamb\\AppData\\Roaming\\NuGet\\NuGet.Config"

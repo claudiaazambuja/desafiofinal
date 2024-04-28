@@ -1,0 +1,14 @@
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\bin\Debug\net8.0\desafiofinal.exe
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\bin\Debug\net8.0\desafiofinal.deps.json
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\bin\Debug\net8.0\desafiofinal.runtimeconfig.json
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\bin\Debug\net8.0\desafiofinal.dll
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\bin\Debug\net8.0\desafiofinal.pdb
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\obj\Debug\net8.0\desafiofinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\obj\Debug\net8.0\desafiofinal.AssemblyInfoInputs.cache
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\obj\Debug\net8.0\desafiofinal.AssemblyInfo.cs
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\obj\Debug\net8.0\desafiofinal.csproj.CoreCompileInputs.cache
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\obj\Debug\net8.0\desafiofinal.dll
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\obj\Debug\net8.0\refint\desafiofinal.dll
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\obj\Debug\net8.0\desafiofinal.pdb
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\obj\Debug\net8.0\desafiofinal.genruntimeconfig.cache
+C:\Users\azamb\RiderProjects\trilha-dotnet-desafiofinal\desafiofinal\obj\Debug\net8.0\ref\desafiofinal.dll
